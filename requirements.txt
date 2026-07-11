@@ -1,0 +1,7 @@
+modal
+datasets==3.6.0
+huggingface_hub==0.34.4
+langdetect==1.0.9
+pyarrow==17.0.0
+datasketch==1.6.5
+transformers==4.46.3

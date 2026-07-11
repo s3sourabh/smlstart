@@ -16,3 +16,10 @@ build/
 .pytest_cache/
 .mypy_cache/
 wandb/
+.serve_token.txt
+index.json
+_phase*.json
+node_modules/
+.next/
+.vercel/
+web/.env.local
